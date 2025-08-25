@@ -84,3 +84,4 @@
 2025-08-04 — progresso (commit simulado)
 2025-08-11 — progresso (commit simulado)
 2025-08-18 — progresso (commit simulado)
+2025-08-25 — progresso (commit simulado)
